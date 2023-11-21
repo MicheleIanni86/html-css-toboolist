@@ -25,5 +25,38 @@ body {
     vertical-align: middle;
     padding-left: 50px;
     width: 130px;
+}
+
+/* MAIN */
+.total-main {    
+    display: flex;
+    width: 70%;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    margin-top: 53px;
+}
+
+.button-main {
+    margin-left: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: #47ADF1;
+    
+}
+
+.button-section {
+    margin-left: 5px;
+    border: 1px solid #a1a2a3;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #a1a2a3;
 
 }
