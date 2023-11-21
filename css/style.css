@@ -76,10 +76,15 @@ body {
 }
 
 /* LIST */
+div span {
+    border-radius: 10px;
+    padding: 5px;
+    font-size: small;
+}
 
 .second-list {
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 ul {
@@ -88,7 +93,9 @@ ul {
 
 li {
     list-style: inside;
-}
+    margin: 20px 0 0 20px;
+    }
+
 
 .total-main div {
     margin-left: 100px;
