@@ -21,6 +21,10 @@ body {
     background-color: white;    
 }
 
+#title {
+    color: black;
+}
+
 .header-logo {
     vertical-align: middle;
     padding-left: 50px;
