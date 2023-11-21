@@ -1,0 +1,29 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+    background-color: rgb(198, 198, 202);
+}
+
+/* HEADER */
+.header {
+    display: inline-block;
+    width: 100%;
+    line-height: 130px;
+    margin: 0 auto;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: white;    
+}
+
+.header-logo {
+    vertical-align: middle;
+    padding-left: 50px;
+    width: 130px;
+
+}
